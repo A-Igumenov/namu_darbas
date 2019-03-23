@@ -21,7 +21,7 @@ int main()
         cin>>uzkl;
     }
     for (auto i: lent){
-        cout<<setw(15)<<i.var<<setw(15)<<i.pav;
+        cout<<setw(15)<<i.var<<setw(15)<<i.pav;/// hgfghffgdfdgfdgf
         for (auto j: i.paz)
             cout<<setw(3)<<j; cout<<endl;
     }
